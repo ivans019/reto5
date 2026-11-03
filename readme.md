@@ -1,5 +1,5 @@
 ### trabajo programacion reto 5
-## diagrama de flujo meni principal 
+## diagrama de flujo menu principal 
 ![imagen](imagenes/menup.png)
 
 
