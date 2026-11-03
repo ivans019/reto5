@@ -131,3 +131,18 @@ def top_palabras(lineas):
         cantidades[pos] = -1
 
     return top_p, top_c
+
+
+
+    ### conclusiones
+    - frente al uso del codigo y al analisis de archivos ( en este caso sample2.txt) aparatir de las graficas y los datos obtenidos se puede afirmar que no hubo errores durante la ejecucion del programa y tambien datos como :
+    
+    Líneas: 13 | Palabras: 423
+Caracteres con espacios: 2847 | Sin espacios: 2432
+1. quae: 8
+2. est: 8
+3. non: 8
+4. esse: 7
+5. ut: 6
+
+   gracias a estas herramientas podemos hacer un analisis extenso de documentos sin necesidad de hacerlo manualmente, esto es beneficioso a la hora de organizar y clasificar informacion de manera rapida en una base de datos.
