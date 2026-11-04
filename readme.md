@@ -134,7 +134,19 @@ def top_palabras(lineas):
 
 
 
-    ### conclusiones
+
+
+
+
+
+
+
+
+
+
+
+
+       conclusiones
     - frente al uso del codigo y al analisis de archivos ( en este caso sample2.txt) aparatir de las graficas y los datos obtenidos se puede afirmar que no hubo errores durante la ejecucion del programa y tambien datos como :
     
     Líneas: 13 | Palabras: 423
