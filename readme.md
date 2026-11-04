@@ -155,4 +155,6 @@ Caracteres con espacios: 2847 | Sin espacios: 2432
 4. esse: 7
 5. ut: 6
 
-   gracias a estas herramientas podemos hacer un analisis extenso de documentos sin necesidad de hacerlo manualmente, esto es beneficioso a la hora de organizar y clasificar informacion de manera rapida en una base de datos.
+   gracias a estas herramientas podemos hacer un analisis extenso de documentos sin necesidad de hacerlo manualmente, esto es beneficioso a la hora de organizar y clasificar informacion de manera rapida en una base de datos. para finalizar dejo el video tipo sustentacion
+   
+   https://upbeduco-my.sharepoint.com/:v:/r/personal/ivan_santana_upb_edu_co/_layouts/15/stream.aspx?id=%2Fpersonal%2Fivan_santana_upb_edu_co%2FDocuments%2FRecordings%2FReuni%C3%B3n%20con%20Ivan%20Stiven%20Santana%20Murcia-20261103_133741-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n.mp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&share=cQr8NwOHBdsCT7ZHds76LK_IEgUCSGrb-D1h6RvLx285CLftZw
